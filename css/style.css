@@ -91,6 +91,9 @@ a {
   margin-top: 10px;
   display: block;
 }
+.inlinea{
+  display: inline;
+}
 
 .welcome-message {
   font-style: italic;
@@ -139,6 +142,9 @@ a {
   flex-wrap: wrap;
   justify-content: space-around;
   padding: 10px;
+}
+.flex-item{
+  background-color: #484848;
 }
 
 .center-content {
