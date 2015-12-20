@@ -7,7 +7,7 @@
 
 ### By the end:
 My resume will look something like this
-![](http://i.imgur.com/pWU1Xbl.png)
+![](https://github.com/yyssjj33/frontend-nanodegree-resume/blob/master/images/ResultSH1.jpg)
 
 And your repository will include the following files:
 
