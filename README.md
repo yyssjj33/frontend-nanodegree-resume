@@ -8,8 +8,9 @@
 ### By the end:
 My resume will look something like this
 ![](https://github.com/yyssjj33/frontend-nanodegree-resume/blob/master/images/ResultSH1.jpg)
+![](https://github.com/yyssjj33/frontend-nanodegree-resume/blob/master/images/ResultSH2.jpg)
 
-And your repository will include the following files:
+And my repository will include the following files:
 
 * **index.html**: The main HTML document. Contains links to all of the CSS and JS resources needed to render the resume, including resumeBuilder.js.
 * **js/helper.js**: Contains helper code needed to format the resume and build the map. It also has a few function shells for additional functionality. More on helper.js further down.
@@ -20,7 +21,7 @@ And your repository will include the following files:
 The GitHub readme file.
 * and some images in the images directory.
 
-## Your starting point...
+## Your starting point...(I finished the resume by following steps)
 ### js/helper.js
 Within helper.js, you’ll find a large collection of strings containing snippets of HTML. Within many snippets, you’ll find placeholder data in the form of `%data%` or `%contact%`.
 
